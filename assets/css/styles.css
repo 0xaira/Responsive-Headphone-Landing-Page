@@ -144,7 +144,7 @@ img {
   background: transparent;
 }
 
-/*=============== NAV ===============*/
+
 .nav {
   height: var(--header-height);
   display: flex;
